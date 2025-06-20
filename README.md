@@ -1,3 +1,4 @@
+
 # 🚗 ADAS Core Logic Simulator
 
 A hardware-independent simulator for an Advanced Driver Assistance System (ADAS), written entirely in C. It models the core logic for two critical automotive safety features: **Blind Spot Detection (BSD)** and **Lane Departure Warning (LDW)**.
@@ -25,15 +26,15 @@ A hardware-independent simulator for an Advanced Driver Assistance System (ADAS)
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 This ADAS simulator is a real-time logic emulator that mimics radar and lane tracking behavior using only software logic. Designed to reflect embedded software engineering practices, it demonstrates clean modular architecture, RTOS-like task separation, and time-sensitive event handling without requiring any physical hardware.
 
 ---
 
-## 🧱 System Architecture
+## System Architecture
 
-### 🔧 Design Philosophy
+### Design Philosophy
 
 The simulator is built using a modular, decoupled architecture. Each subsystem (sensing, logic, alerting, logging) is implemented as a standalone C module with a corresponding `.h` interface.
 
@@ -43,9 +44,7 @@ The simulator is built using a modular, decoupled architecture. Each subsystem (
 - **Scalability** – Add new ADAS features easily.
 - **Maintainability** – Logical separation simplifies debugging and extension.
 
----
-
-### 🔄 Data Flow
+### Data Flow
 
 ```
 
@@ -53,9 +52,7 @@ The simulator is built using a modular, decoupled architecture. Each subsystem (
 
 ````
 
----
-
-### 📁 Module Descriptions
+### Module Descriptions
 
 | Module             | Responsibility                                                                      | Files                         |
 |--------------------|--------------------------------------------------------------------------------------|-------------------------------|
@@ -69,7 +66,7 @@ The simulator is built using a modular, decoupled architecture. Each subsystem (
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Intelligent Sensor Simulation** – Mimics radar and lane camera behavior using controlled randomness.
 - **Blind Spot Detection** – Detects nearby objects < 100 cm on left/right sensors.
@@ -79,30 +76,26 @@ The simulator is built using a modular, decoupled architecture. Each subsystem (
 
 ---
 
-## 📄 Code Documentation
+## Code Documentation
 
 All public header files (`*.h`) are documented using Doxygen-style comments, including function purpose, input/output, and usage hints.
 
 ---
 
-## ⚙️ Build and Execute
+## Build and Execute
 
-### 🔧 Prerequisites
+### Prerequisites
 
 - GCC or compatible C compiler
 - `make` (optional but recommended)
 
----
-
-### 🧰 Using Makefile (Recommended)
+### Using Makefile (Recommended)
 
 ```bash
 make
 ````
 
----
-
-### 🛠️ Manual Compilation
+### Manual Compilation
 
 #### Linux/macOS:
 
@@ -116,9 +109,7 @@ gcc main.c sensor_simulation.c blind_spot.c lane_detection.c alert.c log.c -o ad
 gcc main.c sensor_simulation.c blind_spot.c lane_detection.c alert.c log.c -o adas.exe
 ```
 
----
-
-### ▶️ Running the Simulator
+### Running the Simulator
 
 #### Linux/macOS:
 
@@ -136,7 +127,7 @@ Press `Ctrl+C` to stop the simulation loop.
 
 ---
 
-## 🖥️ Example Simulation Output
+## Example Simulation Output
 
 ### Terminal Output
 
@@ -148,7 +139,7 @@ Press `Ctrl+C` to stop the simulation loop.
 [!!] Lane Drift Alert: Drifting RIGHT
 ```
 
-### log.txt Output
+### Log File Output
 
 ```
 --- ADAS Log Session Started at 19:30:11 ---
@@ -159,19 +150,15 @@ Press `Ctrl+C` to stop the simulation loop.
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
 ---
+## Credits
 
-## 👨‍💻 Credits
+👨‍💻 **Author**: Akshay Tiwari  
+📧 **Email**: [tiwariakshay590@gmail.com](mailto:tiwariakshay590@gmail.com)  
+🌐 **GitHub**: [https://github.com/AkshayTiwari27](https://github.com/AkshayTiwari27)  
+🔗 **LinkedIn**: [https://www.linkedin.com/in/akshay-tiwari2709/](https://www.linkedin.com/in/akshay-tiwari2709/)  
 
-**Author**: Akshay Tiwari
-**Email**: [tiwariakshay590@gmail.com](mailto:tiwariakshay590@gmail.com)
-**GitHub**: [AkshayTiwari27](https://github.com/AkshayTiwari27)
-**LinkedIn**: [linkedin.com/in/akshay-tiwari2709](https://www.linkedin.com/in/akshay-tiwari2709/)
-**Project Type**: Embedded Systems Simulation (No Hardware)
-
-```
-```
