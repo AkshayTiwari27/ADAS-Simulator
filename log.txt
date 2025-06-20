@@ -1,0 +1,670 @@
+
+--- ADAS Log Session Started at 19:30:11 ---
+[19:31:28] Lane Drift Alert: Drifting LEFT
+[19:31:29] Blind Spot Alert: Object on LEFT, Distance = 54cm
+[19:31:29] Lane Drift Alert: Drifting RIGHT
+[19:31:30] Blind Spot Alert: Object on LEFT, Distance = 51cm
+[19:31:30] Lane Drift Alert: Drifting LEFT
+[19:31:31] Blind Spot Alert: Object on LEFT, Distance = 93cm
+[19:31:31] Lane Drift Alert: Drifting RIGHT
+[19:31:32] Blind Spot Alert: Object on LEFT, Distance = 56cm
+[19:31:32] Lane Drift Alert: Drifting LEFT
+[19:31:33] Lane Drift Alert: Drifting RIGHT
+[19:31:34] Blind Spot Alert: Object on RIGHT, Distance = 52cm
+[19:31:34] Lane Drift Alert: Drifting LEFT
+[19:31:35] Blind Spot Alert: Object on RIGHT, Distance = 94cm
+[19:31:35] Lane Drift Alert: Drifting LEFT
+[19:31:37] Lane Drift Alert: Drifting RIGHT
+[19:31:38] Lane Drift Alert: Drifting RIGHT
+[19:31:40] Blind Spot Alert: Object on RIGHT, Distance = 77cm
+[19:31:40] Lane Drift Alert: Drifting LEFT
+[19:31:41] Blind Spot Alert: Object on LEFT, Distance = 91cm
+[19:31:42] Lane Drift Alert: Drifting RIGHT
+[19:31:44] Blind Spot Alert: Object on RIGHT, Distance = 68cm
+[19:31:44] Lane Drift Alert: Drifting RIGHT
+[19:31:45] Lane Drift Alert: Drifting RIGHT
+[19:31:46] Lane Drift Alert: Drifting LEFT
+[19:31:47] Blind Spot Alert: Object on LEFT, Distance = 80cm
+[19:31:47] Lane Drift Alert: Drifting LEFT
+[19:31:48] Blind Spot Alert: Object on LEFT, Distance = 57cm
+[19:31:48] Lane Drift Alert: Drifting RIGHT
+[19:31:49] Lane Drift Alert: Drifting LEFT
+[19:31:51] Blind Spot Alert: Object on RIGHT, Distance = 57cm
+[19:31:52] Blind Spot Alert: Object on RIGHT, Distance = 51cm
+[19:31:52] Lane Drift Alert: Drifting RIGHT
+[19:31:54] Lane Drift Alert: Drifting RIGHT
+[19:31:55] Blind Spot Alert: Object on LEFT, Distance = 86cm
+[19:31:56] Lane Drift Alert: Drifting LEFT
+[19:31:57] Blind Spot Alert: Object on LEFT, Distance = 60cm
+[19:31:58] Blind Spot Alert: Object on LEFT, Distance = 51cm
+[19:31:58] Lane Drift Alert: Drifting LEFT
+[19:31:59] Lane Drift Alert: Drifting RIGHT
+[19:32:01] Blind Spot Alert: Object on RIGHT, Distance = 79cm
+[19:32:02] Lane Drift Alert: Drifting LEFT
+[19:32:03] Blind Spot Alert: Object on RIGHT, Distance = 88cm
+[19:32:03] Lane Drift Alert: Drifting LEFT
+[19:32:05] Lane Drift Alert: Drifting LEFT
+[19:32:06] Blind Spot Alert: Object on RIGHT, Distance = 94cm
+[19:32:08] Blind Spot Alert: Object on LEFT, Distance = 70cm
+[19:32:08] Lane Drift Alert: Drifting LEFT
+[19:32:09] Blind Spot Alert: Object on LEFT, Distance = 83cm
+[19:32:09] Lane Drift Alert: Drifting LEFT
+[19:32:10] Blind Spot Alert: Object on LEFT, Distance = 80cm
+[19:32:10] Lane Drift Alert: Drifting LEFT
+[19:32:11] Lane Drift Alert: Drifting RIGHT
+[19:32:12] Lane Drift Alert: Drifting LEFT
+[19:32:14] Blind Spot Alert: Object on RIGHT, Distance = 55cm
+[19:32:15] Blind Spot Alert: Object on RIGHT, Distance = 75cm
+[19:32:16] Blind Spot Alert: Object on LEFT, Distance = 72cm
+[19:32:16] Lane Drift Alert: Drifting RIGHT
+[19:32:17] Blind Spot Alert: Object on RIGHT, Distance = 62cm
+[19:32:17] Lane Drift Alert: Drifting RIGHT
+[19:32:18] Blind Spot Alert: Object on RIGHT, Distance = 88cm
+[19:32:18] Lane Drift Alert: Drifting RIGHT
+[19:32:19] Lane Drift Alert: Drifting RIGHT
+[19:32:20] Blind Spot Alert: Object on LEFT, Distance = 77cm
+[19:32:20] Lane Drift Alert: Drifting RIGHT
+[19:32:21] Blind Spot Alert: Object on LEFT, Distance = 94cm
+[19:32:24] Blind Spot Alert: Object on LEFT, Distance = 84cm
+[19:32:27] Lane Drift Alert: Drifting RIGHT
+[19:32:31] Blind Spot Alert: Object on LEFT, Distance = 68cm
+[19:32:32] Blind Spot Alert: Object on RIGHT, Distance = 50cm
+[19:32:32] Lane Drift Alert: Drifting RIGHT
+[19:32:33] Lane Drift Alert: Drifting LEFT
+[19:32:34] Blind Spot Alert: Object on LEFT, Distance = 96cm
+[19:32:35] Blind Spot Alert: Object on RIGHT, Distance = 57cm
+[19:32:36] Blind Spot Alert: Object on LEFT, Distance = 73cm
+[19:32:36] Lane Drift Alert: Drifting RIGHT
+[19:32:38] Lane Drift Alert: Drifting RIGHT
+[19:32:40] Blind Spot Alert: Object on LEFT, Distance = 95cm
+[19:32:41] Blind Spot Alert: Object on RIGHT, Distance = 58cm
+[19:32:41] Lane Drift Alert: Drifting RIGHT
+[19:32:43] Blind Spot Alert: Object on RIGHT, Distance = 62cm
+[19:32:43] Lane Drift Alert: Drifting RIGHT
+[19:32:44] Blind Spot Alert: Object on RIGHT, Distance = 96cm
+[19:32:44] Lane Drift Alert: Drifting RIGHT
+[19:32:45] Blind Spot Alert: Object on LEFT, Distance = 62cm
+[19:32:45] Lane Drift Alert: Drifting RIGHT
+[19:32:46] Lane Drift Alert: Drifting RIGHT
+[19:32:47] Blind Spot Alert: Object on LEFT, Distance = 67cm
+[19:32:47] Lane Drift Alert: Drifting LEFT
+[19:32:48] Lane Drift Alert: Drifting RIGHT
+[19:32:49] Lane Drift Alert: Drifting RIGHT
+[19:32:50] Blind Spot Alert: Object on LEFT, Distance = 56cm
+[19:32:51] Blind Spot Alert: Object on RIGHT, Distance = 98cm
+[19:32:51] Lane Drift Alert: Drifting LEFT
+[19:32:52] Blind Spot Alert: Object on LEFT, Distance = 60cm
+[19:32:52] Lane Drift Alert: Drifting RIGHT
+[19:32:53] Lane Drift Alert: Drifting RIGHT
+[19:32:54] Lane Drift Alert: Drifting RIGHT
+[19:32:55] Lane Drift Alert: Drifting RIGHT
+[19:32:56] Blind Spot Alert: Object on LEFT, Distance = 68cm
+[19:32:56] Lane Drift Alert: Drifting LEFT
+[19:32:57] Blind Spot Alert: Object on LEFT, Distance = 94cm
+[19:32:58] Blind Spot Alert: Object on LEFT, Distance = 51cm
+[19:32:58] Lane Drift Alert: Drifting RIGHT
+[19:32:59] Blind Spot Alert: Object on LEFT, Distance = 91cm
+[19:32:59] Lane Drift Alert: Drifting RIGHT
+[19:33:00] Blind Spot Alert: Object on RIGHT, Distance = 67cm
+[19:33:00] Lane Drift Alert: Drifting LEFT
+[19:33:02] Blind Spot Alert: Object on LEFT, Distance = 84cm
+[19:33:02] Lane Drift Alert: Drifting RIGHT
+[19:33:03] Lane Drift Alert: Drifting RIGHT
+[19:33:04] Lane Drift Alert: Drifting LEFT
+[19:33:05] Lane Drift Alert: Drifting RIGHT
+[19:33:06] Lane Drift Alert: Drifting LEFT
+[19:33:08] Blind Spot Alert: Object on LEFT, Distance = 98cm
+[19:33:09] Blind Spot Alert: Object on RIGHT, Distance = 55cm
+[19:33:10] Blind Spot Alert: Object on RIGHT, Distance = 81cm
+[19:33:11] Blind Spot Alert: Object on LEFT, Distance = 76cm
+[19:33:11] Lane Drift Alert: Drifting LEFT
+[19:33:12] Lane Drift Alert: Drifting RIGHT
+[19:33:13] Blind Spot Alert: Object on LEFT, Distance = 72cm
+[19:33:13] Lane Drift Alert: Drifting LEFT
+[19:33:14] Blind Spot Alert: Object on RIGHT, Distance = 67cm
+[19:33:14] Lane Drift Alert: Drifting RIGHT
+[19:33:15] Lane Drift Alert: Drifting RIGHT
+[19:33:16] Blind Spot Alert: Object on RIGHT, Distance = 90cm
+[19:33:16] Lane Drift Alert: Drifting LEFT
+[19:33:17] Blind Spot Alert: Object on LEFT, Distance = 91cm
+[19:33:17] Lane Drift Alert: Drifting RIGHT
+[19:33:18] Blind Spot Alert: Object on RIGHT, Distance = 83cm
+[19:33:18] Lane Drift Alert: Drifting LEFT
+[19:33:20] Blind Spot Alert: Object on LEFT, Distance = 91cm
+[19:33:20] Lane Drift Alert: Drifting RIGHT
+[19:33:21] Lane Drift Alert: Drifting RIGHT
+[19:33:23] Blind Spot Alert: Object on LEFT, Distance = 75cm
+[19:33:23] Lane Drift Alert: Drifting RIGHT
+[19:33:24] Blind Spot Alert: Object on RIGHT, Distance = 89cm
+[19:33:24] Lane Drift Alert: Drifting RIGHT
+[19:33:27] Blind Spot Alert: Object on RIGHT, Distance = 96cm
+[19:33:28] Blind Spot Alert: Object on LEFT, Distance = 82cm
+[19:33:28] Lane Drift Alert: Drifting LEFT
+[19:33:29] Blind Spot Alert: Object on LEFT, Distance = 56cm
+[19:33:30] Blind Spot Alert: Object on LEFT, Distance = 70cm
+[19:33:30] Lane Drift Alert: Drifting LEFT
+[19:33:31] Blind Spot Alert: Object on LEFT, Distance = 62cm
+[19:33:31] Lane Drift Alert: Drifting RIGHT
+[19:33:32] Lane Drift Alert: Drifting RIGHT
+[19:33:33] Blind Spot Alert: Object on RIGHT, Distance = 96cm
+[19:33:33] Lane Drift Alert: Drifting RIGHT
+[19:33:35] Lane Drift Alert: Drifting LEFT
+[19:33:36] Lane Drift Alert: Drifting RIGHT
+[19:33:37] Lane Drift Alert: Drifting LEFT
+[19:33:38] Blind Spot Alert: Object on RIGHT, Distance = 63cm
+[19:33:39] Lane Drift Alert: Drifting LEFT
+[19:33:40] Lane Drift Alert: Drifting LEFT
+[19:33:41] Blind Spot Alert: Object on RIGHT, Distance = 70cm
+[19:33:41] Lane Drift Alert: Drifting LEFT
+[19:33:42] Blind Spot Alert: Object on LEFT, Distance = 92cm
+[19:33:43] Lane Drift Alert: Drifting LEFT
+[19:33:44] Lane Drift Alert: Drifting LEFT
+[19:33:46] Blind Spot Alert: Object on LEFT, Distance = 85cm
+[19:33:47] Blind Spot Alert: Object on RIGHT, Distance = 50cm
+[19:33:47] Lane Drift Alert: Drifting LEFT
+[19:33:49] Blind Spot Alert: Object on RIGHT, Distance = 95cm
+[19:33:50] Blind Spot Alert: Object on LEFT, Distance = 91cm
+[19:33:50] Lane Drift Alert: Drifting LEFT
+[19:33:51] Blind Spot Alert: Object on LEFT, Distance = 66cm
+[19:33:51] Lane Drift Alert: Drifting RIGHT
+[19:33:53] Lane Drift Alert: Drifting LEFT
+[19:33:54] Blind Spot Alert: Object on LEFT, Distance = 61cm
+[19:33:54] Lane Drift Alert: Drifting LEFT
+[19:33:56] Blind Spot Alert: Object on RIGHT, Distance = 86cm
+[19:33:57] Lane Drift Alert: Drifting RIGHT
+[19:33:58] Lane Drift Alert: Drifting RIGHT
+[19:33:59] Blind Spot Alert: Object on LEFT, Distance = 74cm
+[19:33:59] Lane Drift Alert: Drifting RIGHT
+[19:34:00] Blind Spot Alert: Object on LEFT, Distance = 81cm
+[19:34:00] Lane Drift Alert: Drifting LEFT
+[19:34:01] Blind Spot Alert: Object on LEFT, Distance = 63cm
+[19:34:01] Lane Drift Alert: Drifting LEFT
+[19:34:02] Blind Spot Alert: Object on RIGHT, Distance = 85cm
+[19:34:02] Lane Drift Alert: Drifting RIGHT
+[19:34:03] Blind Spot Alert: Object on LEFT, Distance = 73cm
+[19:34:03] Lane Drift Alert: Drifting LEFT
+[19:34:04] Blind Spot Alert: Object on RIGHT, Distance = 68cm
+[19:34:04] Lane Drift Alert: Drifting RIGHT
+[19:34:05] Blind Spot Alert: Object on LEFT, Distance = 83cm
+[19:34:05] Lane Drift Alert: Drifting RIGHT
+[19:34:06] Blind Spot Alert: Object on LEFT, Distance = 95cm
+[19:34:06] Lane Drift Alert: Drifting LEFT
+[19:34:07] Lane Drift Alert: Drifting RIGHT
+[19:34:08] Lane Drift Alert: Drifting RIGHT
+[19:34:09] Lane Drift Alert: Drifting RIGHT
+[19:34:10] Lane Drift Alert: Drifting RIGHT
+[19:34:12] Blind Spot Alert: Object on LEFT, Distance = 66cm
+[19:34:12] Lane Drift Alert: Drifting RIGHT
+[19:34:13] Lane Drift Alert: Drifting LEFT
+[19:34:14] Blind Spot Alert: Object on LEFT, Distance = 93cm
+[19:34:14] Lane Drift Alert: Drifting RIGHT
+[19:34:15] Lane Drift Alert: Drifting LEFT
+[19:34:16] Lane Drift Alert: Drifting LEFT
+[19:34:18] Lane Drift Alert: Drifting LEFT
+[19:34:19] Blind Spot Alert: Object on RIGHT, Distance = 62cm
+[19:34:19] Lane Drift Alert: Drifting LEFT
+[19:34:20] Blind Spot Alert: Object on LEFT, Distance = 86cm
+[19:34:20] Lane Drift Alert: Drifting RIGHT
+[19:34:21] Lane Drift Alert: Drifting LEFT
+[19:34:22] Lane Drift Alert: Drifting RIGHT
+[19:34:23] Blind Spot Alert: Object on LEFT, Distance = 58cm
+[19:34:23] Lane Drift Alert: Drifting RIGHT
+[19:34:24] Blind Spot Alert: Object on LEFT, Distance = 52cm
+[19:34:24] Lane Drift Alert: Drifting RIGHT
+[19:34:25] Lane Drift Alert: Drifting RIGHT
+[19:34:26] Blind Spot Alert: Object on LEFT, Distance = 99cm
+[19:34:27] Lane Drift Alert: Drifting LEFT
+[19:34:29] Blind Spot Alert: Object on LEFT, Distance = 61cm
+[19:34:30] Blind Spot Alert: Object on LEFT, Distance = 76cm
+[19:34:31] Lane Drift Alert: Drifting LEFT
+[19:34:32] Lane Drift Alert: Drifting LEFT
+[19:34:33] Blind Spot Alert: Object on RIGHT, Distance = 62cm
+[19:34:33] Lane Drift Alert: Drifting LEFT
+[19:34:34] Blind Spot Alert: Object on LEFT, Distance = 78cm
+[19:34:34] Lane Drift Alert: Drifting LEFT
+[19:34:35] Lane Drift Alert: Drifting LEFT
+[19:34:36] Blind Spot Alert: Object on LEFT, Distance = 93cm
+[19:34:36] Lane Drift Alert: Drifting LEFT
+[19:34:37] Lane Drift Alert: Drifting RIGHT
+[19:34:39] Blind Spot Alert: Object on RIGHT, Distance = 90cm
+[19:34:39] Lane Drift Alert: Drifting RIGHT
+[19:34:40] Blind Spot Alert: Object on LEFT, Distance = 50cm
+[19:34:40] Lane Drift Alert: Drifting LEFT
+[19:34:42] Lane Drift Alert: Drifting LEFT
+[19:34:44] Blind Spot Alert: Object on RIGHT, Distance = 51cm
+[19:34:45] Blind Spot Alert: Object on RIGHT, Distance = 92cm
+[19:34:45] Lane Drift Alert: Drifting RIGHT
+[19:34:46] Blind Spot Alert: Object on RIGHT, Distance = 75cm
+[19:34:46] Lane Drift Alert: Drifting RIGHT
+[19:34:48] Lane Drift Alert: Drifting LEFT
+[19:34:49] Blind Spot Alert: Object on LEFT, Distance = 92cm
+[19:34:51] Blind Spot Alert: Object on LEFT, Distance = 97cm
+[19:34:51] Lane Drift Alert: Drifting LEFT
+[19:34:52] Lane Drift Alert: Drifting RIGHT
+[19:34:53] Blind Spot Alert: Object on LEFT, Distance = 80cm
+[19:34:53] Lane Drift Alert: Drifting LEFT
+[19:34:54] Blind Spot Alert: Object on RIGHT, Distance = 86cm
+[19:34:54] Lane Drift Alert: Drifting RIGHT
+[19:34:55] Lane Drift Alert: Drifting LEFT
+[19:34:56] Lane Drift Alert: Drifting RIGHT
+[19:34:57] Lane Drift Alert: Drifting RIGHT
+[19:34:58] Lane Drift Alert: Drifting LEFT
+[19:34:59] Blind Spot Alert: Object on LEFT, Distance = 69cm
+[19:34:59] Lane Drift Alert: Drifting LEFT
+[19:35:02] Blind Spot Alert: Object on LEFT, Distance = 78cm
+[19:35:03] Blind Spot Alert: Object on RIGHT, Distance = 97cm
+[19:35:04] Lane Drift Alert: Drifting LEFT
+[19:35:05] Blind Spot Alert: Object on LEFT, Distance = 71cm
+[19:35:05] Lane Drift Alert: Drifting LEFT
+[19:35:06] Blind Spot Alert: Object on LEFT, Distance = 83cm
+[19:35:06] Lane Drift Alert: Drifting RIGHT
+[19:35:07] Blind Spot Alert: Object on RIGHT, Distance = 64cm
+[19:35:07] Lane Drift Alert: Drifting LEFT
+[19:35:08] Lane Drift Alert: Drifting RIGHT
+[19:35:09] Lane Drift Alert: Drifting RIGHT
+[19:35:10] Lane Drift Alert: Drifting RIGHT
+[19:35:11] Blind Spot Alert: Object on LEFT, Distance = 74cm
+[19:35:13] Lane Drift Alert: Drifting LEFT
+[19:35:14] Blind Spot Alert: Object on LEFT, Distance = 68cm
+[19:35:14] Lane Drift Alert: Drifting LEFT
+[19:35:15] Lane Drift Alert: Drifting LEFT
+[19:35:16] Blind Spot Alert: Object on RIGHT, Distance = 54cm
+[19:35:16] Lane Drift Alert: Drifting LEFT
+[19:35:17] Lane Drift Alert: Drifting LEFT
+[19:35:18] Blind Spot Alert: Object on LEFT, Distance = 53cm
+[19:35:18] Lane Drift Alert: Drifting RIGHT
+[19:35:19] Blind Spot Alert: Object on LEFT, Distance = 52cm
+[19:35:19] Lane Drift Alert: Drifting RIGHT
+[19:35:20] Lane Drift Alert: Drifting LEFT
+[19:35:21] Blind Spot Alert: Object on LEFT, Distance = 64cm
+[19:35:21] Lane Drift Alert: Drifting RIGHT
+[19:35:22] Blind Spot Alert: Object on LEFT, Distance = 59cm
+[19:35:23] Blind Spot Alert: Object on LEFT, Distance = 99cm
+[19:35:24] Blind Spot Alert: Object on RIGHT, Distance = 55cm
+[19:35:25] Blind Spot Alert: Object on LEFT, Distance = 73cm
+[19:35:26] Blind Spot Alert: Object on RIGHT, Distance = 79cm
+[19:35:27] Blind Spot Alert: Object on RIGHT, Distance = 66cm
+[19:35:27] Lane Drift Alert: Drifting LEFT
+[19:35:29] Lane Drift Alert: Drifting LEFT
+[19:35:30] Blind Spot Alert: Object on RIGHT, Distance = 76cm
+[19:35:30] Lane Drift Alert: Drifting RIGHT
+[19:35:31] Blind Spot Alert: Object on RIGHT, Distance = 78cm
+[19:35:33] Lane Drift Alert: Drifting LEFT
+[19:35:34] Blind Spot Alert: Object on RIGHT, Distance = 89cm
+[19:35:36] Blind Spot Alert: Object on LEFT, Distance = 93cm
+[19:35:36] Lane Drift Alert: Drifting LEFT
+[19:35:37] Lane Drift Alert: Drifting RIGHT
+[19:35:38] Blind Spot Alert: Object on RIGHT, Distance = 67cm
+[19:35:39] Blind Spot Alert: Object on RIGHT, Distance = 87cm
+[19:35:39] Lane Drift Alert: Drifting LEFT
+[19:35:40] Lane Drift Alert: Drifting LEFT
+[19:35:41] Blind Spot Alert: Object on LEFT, Distance = 71cm
+[19:35:41] Lane Drift Alert: Drifting LEFT
+[19:35:42] Blind Spot Alert: Object on RIGHT, Distance = 66cm
+[19:35:42] Lane Drift Alert: Drifting LEFT
+[19:35:43] Blind Spot Alert: Object on LEFT, Distance = 97cm
+[19:35:43] Lane Drift Alert: Drifting RIGHT
+[19:35:44] Blind Spot Alert: Object on LEFT, Distance = 92cm
+[19:35:45] Blind Spot Alert: Object on RIGHT, Distance = 67cm
+[19:35:46] Blind Spot Alert: Object on LEFT, Distance = 94cm
+[19:35:46] Lane Drift Alert: Drifting LEFT
+[19:35:47] Blind Spot Alert: Object on LEFT, Distance = 77cm
+[19:35:47] Lane Drift Alert: Drifting RIGHT
+[19:35:49] Lane Drift Alert: Drifting LEFT
+[19:35:50] Blind Spot Alert: Object on LEFT, Distance = 95cm
+[19:35:51] Blind Spot Alert: Object on LEFT, Distance = 73cm
+[19:35:51] Lane Drift Alert: Drifting LEFT
+[19:35:52] Blind Spot Alert: Object on LEFT, Distance = 71cm
+[19:35:52] Lane Drift Alert: Drifting LEFT
+[19:35:53] Lane Drift Alert: Drifting RIGHT
+[19:35:54] Blind Spot Alert: Object on LEFT, Distance = 64cm
+[19:35:54] Lane Drift Alert: Drifting LEFT
+[19:35:56] Lane Drift Alert: Drifting RIGHT
+[19:35:57] Blind Spot Alert: Object on LEFT, Distance = 55cm
+[19:35:57] Lane Drift Alert: Drifting RIGHT
+[19:35:58] Lane Drift Alert: Drifting RIGHT
+[19:35:59] Blind Spot Alert: Object on LEFT, Distance = 90cm
+[19:35:59] Lane Drift Alert: Drifting LEFT
+[19:36:00] Blind Spot Alert: Object on LEFT, Distance = 94cm
+[19:36:02] Blind Spot Alert: Object on RIGHT, Distance = 68cm
+[19:36:04] Blind Spot Alert: Object on LEFT, Distance = 59cm
+[19:36:04] Lane Drift Alert: Drifting LEFT
+[19:36:05] Blind Spot Alert: Object on LEFT, Distance = 99cm
+[19:36:06] Lane Drift Alert: Drifting RIGHT
+[19:36:07] Lane Drift Alert: Drifting LEFT
+[19:36:08] Lane Drift Alert: Drifting LEFT
+[19:36:09] Lane Drift Alert: Drifting LEFT
+[19:36:10] Lane Drift Alert: Drifting LEFT
+[19:36:12] Blind Spot Alert: Object on LEFT, Distance = 99cm
+[19:36:12] Lane Drift Alert: Drifting LEFT
+[19:36:13] Lane Drift Alert: Drifting RIGHT
+[19:36:14] Blind Spot Alert: Object on LEFT, Distance = 72cm
+[19:36:14] Lane Drift Alert: Drifting LEFT
+[19:36:17] Blind Spot Alert: Object on LEFT, Distance = 78cm
+[19:36:17] Lane Drift Alert: Drifting LEFT
+[19:36:18] Lane Drift Alert: Drifting LEFT
+[19:36:19] Lane Drift Alert: Drifting LEFT
+[19:36:20] Blind Spot Alert: Object on LEFT, Distance = 84cm
+[19:36:20] Lane Drift Alert: Drifting LEFT
+[19:36:21] Blind Spot Alert: Object on LEFT, Distance = 89cm
+[19:36:21] Lane Drift Alert: Drifting RIGHT
+[19:36:22] Lane Drift Alert: Drifting LEFT
+[19:36:23] Lane Drift Alert: Drifting LEFT
+[19:36:24] Blind Spot Alert: Object on RIGHT, Distance = 87cm
+[19:36:25] Blind Spot Alert: Object on LEFT, Distance = 75cm
+[19:36:26] Lane Drift Alert: Drifting LEFT
+[19:36:27] Lane Drift Alert: Drifting RIGHT
+[19:36:30] Blind Spot Alert: Object on RIGHT, Distance = 89cm
+[19:36:30] Lane Drift Alert: Drifting RIGHT
+[19:36:31] Blind Spot Alert: Object on RIGHT, Distance = 64cm
+[19:36:31] Lane Drift Alert: Drifting RIGHT
+[19:36:32] Blind Spot Alert: Object on LEFT, Distance = 78cm
+[19:36:33] Blind Spot Alert: Object on LEFT, Distance = 71cm
+[19:36:33] Lane Drift Alert: Drifting LEFT
+[19:36:34] Blind Spot Alert: Object on LEFT, Distance = 62cm
+[19:36:34] Lane Drift Alert: Drifting LEFT
+[19:36:35] Blind Spot Alert: Object on LEFT, Distance = 92cm
+[19:36:36] Lane Drift Alert: Drifting LEFT
+[19:36:37] Blind Spot Alert: Object on LEFT, Distance = 66cm
+[19:36:37] Lane Drift Alert: Drifting LEFT
+[19:36:38] Lane Drift Alert: Drifting RIGHT
+[19:36:40] Lane Drift Alert: Drifting RIGHT
+[19:36:41] Blind Spot Alert: Object on LEFT, Distance = 77cm
+[19:36:41] Lane Drift Alert: Drifting LEFT
+[19:36:42] Lane Drift Alert: Drifting LEFT
+[19:36:44] Lane Drift Alert: Drifting LEFT
+[19:36:45] Blind Spot Alert: Object on LEFT, Distance = 54cm
+[19:36:46] Lane Drift Alert: Drifting LEFT
+[19:36:48] Blind Spot Alert: Object on LEFT, Distance = 79cm
+[19:36:48] Lane Drift Alert: Drifting RIGHT
+[19:36:49] Blind Spot Alert: Object on LEFT, Distance = 87cm
+[19:36:49] Lane Drift Alert: Drifting LEFT
+[19:36:50] Blind Spot Alert: Object on LEFT, Distance = 81cm
+[19:36:50] Lane Drift Alert: Drifting LEFT
+[19:36:51] Blind Spot Alert: Object on RIGHT, Distance = 78cm
+[19:36:52] Blind Spot Alert: Object on LEFT, Distance = 50cm
+[19:36:53] Lane Drift Alert: Drifting RIGHT
+[19:36:54] Blind Spot Alert: Object on RIGHT, Distance = 66cm
+[19:36:54] Lane Drift Alert: Drifting LEFT
+[19:36:55] Lane Drift Alert: Drifting LEFT
+[19:36:56] Blind Spot Alert: Object on LEFT, Distance = 86cm
+[19:36:56] Lane Drift Alert: Drifting LEFT
+[19:36:57] Blind Spot Alert: Object on LEFT, Distance = 79cm
+[19:36:58] Blind Spot Alert: Object on LEFT, Distance = 58cm
+[19:36:58] Lane Drift Alert: Drifting RIGHT
+[19:36:59] Lane Drift Alert: Drifting RIGHT
+[19:37:01] Blind Spot Alert: Object on LEFT, Distance = 79cm
+[19:37:01] Lane Drift Alert: Drifting RIGHT
+[19:37:02] Lane Drift Alert: Drifting RIGHT
+[19:37:03] Blind Spot Alert: Object on RIGHT, Distance = 54cm
+[19:37:03] Lane Drift Alert: Drifting LEFT
+[19:37:05] Lane Drift Alert: Drifting RIGHT
+[19:37:06] Blind Spot Alert: Object on LEFT, Distance = 68cm
+[19:37:07] Blind Spot Alert: Object on LEFT, Distance = 66cm
+[19:37:07] Lane Drift Alert: Drifting LEFT
+
+--- ADAS Log Session Started at 19:30:11 ---
+[19:37:27] Blind Spot Alert: Object on RIGHT, Distance = 87cm
+[19:37:27] Lane Drift Alert: Drifting LEFT
+[19:37:28] Blind Spot Alert: Object on RIGHT, Distance = 70cm
+[19:37:28] Lane Drift Alert: Drifting LEFT
+[19:37:29] Blind Spot Alert: Object on LEFT, Distance = 82cm
+[19:37:29] Lane Drift Alert: Drifting RIGHT
+[19:37:30] Blind Spot Alert: Object on RIGHT, Distance = 90cm
+[19:37:30] Lane Drift Alert: Drifting LEFT
+[19:37:31] Blind Spot Alert: Object on LEFT, Distance = 64cm
+[19:37:31] Lane Drift Alert: Drifting LEFT
+[19:37:32] Lane Drift Alert: Drifting LEFT
+[19:37:34] Lane Drift Alert: Drifting RIGHT
+[19:37:35] Lane Drift Alert: Drifting LEFT
+[19:37:36] Blind Spot Alert: Object on LEFT, Distance = 84cm
+[19:37:36] Lane Drift Alert: Drifting LEFT
+[19:37:37] Lane Drift Alert: Drifting RIGHT
+[19:37:38] Lane Drift Alert: Drifting RIGHT
+[19:37:39] Blind Spot Alert: Object on RIGHT, Distance = 98cm
+[19:37:40] Blind Spot Alert: Object on LEFT, Distance = 62cm
+[19:37:40] Lane Drift Alert: Drifting LEFT
+[19:37:41] Lane Drift Alert: Drifting LEFT
+[19:37:42] Blind Spot Alert: Object on LEFT, Distance = 84cm
+[19:37:43] Blind Spot Alert: Object on LEFT, Distance = 70cm
+[19:37:44] Lane Drift Alert: Drifting LEFT
+[19:37:46] Blind Spot Alert: Object on LEFT, Distance = 74cm
+[19:37:46] Lane Drift Alert: Drifting LEFT
+[19:37:47] Blind Spot Alert: Object on LEFT, Distance = 85cm
+[19:37:47] Lane Drift Alert: Drifting RIGHT
+[19:37:48] Blind Spot Alert: Object on RIGHT, Distance = 84cm
+[19:37:48] Lane Drift Alert: Drifting LEFT
+[19:37:49] Blind Spot Alert: Object on RIGHT, Distance = 78cm
+[19:37:50] Lane Drift Alert: Drifting RIGHT
+[19:37:51] Lane Drift Alert: Drifting RIGHT
+[19:37:52] Blind Spot Alert: Object on LEFT, Distance = 98cm
+[19:37:53] Blind Spot Alert: Object on RIGHT, Distance = 53cm
+[19:37:54] Blind Spot Alert: Object on LEFT, Distance = 85cm
+[19:37:55] Lane Drift Alert: Drifting RIGHT
+[19:37:57] Blind Spot Alert: Object on RIGHT, Distance = 96cm
+[19:37:57] Lane Drift Alert: Drifting RIGHT
+[19:38:00] Lane Drift Alert: Drifting RIGHT
+[19:38:01] Blind Spot Alert: Object on LEFT, Distance = 73cm
+[19:38:02] Blind Spot Alert: Object on LEFT, Distance = 74cm
+[19:38:02] Lane Drift Alert: Drifting RIGHT
+[19:38:04] Lane Drift Alert: Drifting LEFT
+[19:38:05] Blind Spot Alert: Object on LEFT, Distance = 85cm
+[19:38:06] Blind Spot Alert: Object on LEFT, Distance = 52cm
+[19:38:07] Lane Drift Alert: Drifting LEFT
+[19:38:08] Lane Drift Alert: Drifting RIGHT
+[19:38:09] Lane Drift Alert: Drifting RIGHT
+[19:38:11] Blind Spot Alert: Object on LEFT, Distance = 59cm
+[19:38:11] Lane Drift Alert: Drifting LEFT
+[19:38:12] Lane Drift Alert: Drifting RIGHT
+[19:38:13] Lane Drift Alert: Drifting RIGHT
+[19:38:14] Lane Drift Alert: Drifting LEFT
+[19:38:15] Lane Drift Alert: Drifting RIGHT
+[19:38:16] Blind Spot Alert: Object on LEFT, Distance = 50cm
+[19:38:16] Lane Drift Alert: Drifting LEFT
+[19:38:17] Lane Drift Alert: Drifting RIGHT
+[19:38:18] Blind Spot Alert: Object on LEFT, Distance = 53cm
+[19:38:19] Blind Spot Alert: Object on LEFT, Distance = 98cm
+[19:38:19] Lane Drift Alert: Drifting LEFT
+[19:38:20] Lane Drift Alert: Drifting RIGHT
+[19:38:21] Blind Spot Alert: Object on RIGHT, Distance = 78cm
+[19:38:21] Lane Drift Alert: Drifting LEFT
+[19:38:22] Blind Spot Alert: Object on LEFT, Distance = 88cm
+[19:38:23] Blind Spot Alert: Object on LEFT, Distance = 55cm
+[19:38:23] Lane Drift Alert: Drifting RIGHT
+[19:38:24] Lane Drift Alert: Drifting RIGHT
+[19:38:25] Lane Drift Alert: Drifting RIGHT
+[19:38:26] Blind Spot Alert: Object on LEFT, Distance = 70cm
+[19:38:26] Lane Drift Alert: Drifting LEFT
+[19:38:27] Blind Spot Alert: Object on LEFT, Distance = 58cm
+[19:38:29] Blind Spot Alert: Object on RIGHT, Distance = 50cm
+[19:38:30] Lane Drift Alert: Drifting LEFT
+[19:38:31] Blind Spot Alert: Object on LEFT, Distance = 58cm
+[19:38:31] Lane Drift Alert: Drifting LEFT
+[19:38:32] Blind Spot Alert: Object on RIGHT, Distance = 74cm
+[19:38:32] Lane Drift Alert: Drifting RIGHT
+[19:38:34] Blind Spot Alert: Object on RIGHT, Distance = 95cm
+[19:38:34] Lane Drift Alert: Drifting RIGHT
+[19:38:35] Blind Spot Alert: Object on RIGHT, Distance = 81cm
+[19:38:35] Lane Drift Alert: Drifting LEFT
+[19:38:37] Lane Drift Alert: Drifting LEFT
+[19:38:39] Blind Spot Alert: Object on RIGHT, Distance = 66cm
+[19:38:40] Blind Spot Alert: Object on RIGHT, Distance = 65cm
+[19:38:40] Lane Drift Alert: Drifting RIGHT
+[19:38:41] Blind Spot Alert: Object on LEFT, Distance = 96cm
+[19:38:41] Lane Drift Alert: Drifting LEFT
+[19:38:42] Blind Spot Alert: Object on LEFT, Distance = 80cm
+[19:38:43] Blind Spot Alert: Object on RIGHT, Distance = 78cm
+[19:38:43] Lane Drift Alert: Drifting LEFT
+[19:38:44] Blind Spot Alert: Object on LEFT, Distance = 52cm
+[19:38:44] Lane Drift Alert: Drifting RIGHT
+[19:38:45] Blind Spot Alert: Object on LEFT, Distance = 53cm
+[19:38:46] Blind Spot Alert: Object on RIGHT, Distance = 69cm
+[19:38:46] Lane Drift Alert: Drifting RIGHT
+[19:38:47] Blind Spot Alert: Object on RIGHT, Distance = 88cm
+[19:38:47] Lane Drift Alert: Drifting LEFT
+[19:38:48] Lane Drift Alert: Drifting RIGHT
+[19:38:49] Blind Spot Alert: Object on LEFT, Distance = 63cm
+[19:38:49] Lane Drift Alert: Drifting RIGHT
+[19:38:50] Blind Spot Alert: Object on RIGHT, Distance = 97cm
+[19:38:52] Blind Spot Alert: Object on RIGHT, Distance = 50cm
+[19:38:52] Lane Drift Alert: Drifting LEFT
+
+--- ADAS Log Session Started at 19:45:53 ---
+[19:46:05] Blind Spot Alert: Object on RIGHT, Distance = 71cm
+[19:46:05] Lane Drift Alert: Drifting LEFT
+[19:46:06] Lane Drift Alert: Drifting RIGHT
+[19:46:07] Blind Spot Alert: Object on LEFT, Distance = 56cm
+[19:46:09] Lane Drift Alert: Drifting LEFT
+[19:46:10] Lane Drift Alert: Drifting RIGHT
+[19:46:12] Blind Spot Alert: Object on RIGHT, Distance = 66cm
+[19:46:12] Lane Drift Alert: Drifting RIGHT
+[19:46:13] Lane Drift Alert: Drifting RIGHT
+[19:46:15] Blind Spot Alert: Object on LEFT, Distance = 80cm
+[19:46:15] Lane Drift Alert: Drifting LEFT
+[19:46:17] Lane Drift Alert: Drifting LEFT
+[19:46:18] Blind Spot Alert: Object on LEFT, Distance = 55cm
+[19:46:19] Blind Spot Alert: Object on RIGHT, Distance = 88cm
+[19:46:21] Lane Drift Alert: Drifting LEFT
+[19:46:22] Lane Drift Alert: Drifting LEFT
+[19:46:23] Blind Spot Alert: Object on LEFT, Distance = 56cm
+[19:46:23] Lane Drift Alert: Drifting LEFT
+[19:46:24] Blind Spot Alert: Object on LEFT, Distance = 97cm
+[19:46:25] Lane Drift Alert: Drifting RIGHT
+[19:46:26] Blind Spot Alert: Object on LEFT, Distance = 76cm
+[19:46:26] Lane Drift Alert: Drifting LEFT
+[19:46:27] Blind Spot Alert: Object on LEFT, Distance = 95cm
+[19:46:27] Lane Drift Alert: Drifting RIGHT
+[19:46:28] Blind Spot Alert: Object on LEFT, Distance = 81cm
+[19:46:28] Lane Drift Alert: Drifting RIGHT
+[19:46:29] Lane Drift Alert: Drifting RIGHT
+[19:46:30] Blind Spot Alert: Object on RIGHT, Distance = 82cm
+[19:46:30] Lane Drift Alert: Drifting RIGHT
+[19:46:31] Blind Spot Alert: Object on LEFT, Distance = 54cm
+[19:46:31] Lane Drift Alert: Drifting LEFT
+[19:46:32] Blind Spot Alert: Object on RIGHT, Distance = 92cm
+[19:46:32] Lane Drift Alert: Drifting RIGHT
+[19:46:34] Blind Spot Alert: Object on RIGHT, Distance = 56cm
+[19:46:34] Lane Drift Alert: Drifting LEFT
+[19:46:35] Blind Spot Alert: Object on LEFT, Distance = 87cm
+[19:46:35] Lane Drift Alert: Drifting RIGHT
+[19:46:36] Lane Drift Alert: Drifting LEFT
+[19:46:37] Blind Spot Alert: Object on RIGHT, Distance = 78cm
+[19:46:38] Blind Spot Alert: Object on LEFT, Distance = 67cm
+[19:46:39] Blind Spot Alert: Object on RIGHT, Distance = 58cm
+[19:46:39] Lane Drift Alert: Drifting LEFT
+[19:46:40] Blind Spot Alert: Object on RIGHT, Distance = 90cm
+[19:46:40] Lane Drift Alert: Drifting LEFT
+[19:46:41] Blind Spot Alert: Object on LEFT, Distance = 62cm
+[19:46:41] Lane Drift Alert: Drifting LEFT
+[19:46:42] Blind Spot Alert: Object on LEFT, Distance = 52cm
+[19:46:42] Lane Drift Alert: Drifting RIGHT
+[19:46:44] Blind Spot Alert: Object on LEFT, Distance = 55cm
+[19:46:44] Lane Drift Alert: Drifting LEFT
+[19:46:45] Lane Drift Alert: Drifting RIGHT
+[19:46:46] Blind Spot Alert: Object on LEFT, Distance = 58cm
+[19:46:48] Lane Drift Alert: Drifting RIGHT
+[19:46:50] Lane Drift Alert: Drifting LEFT
+[19:46:51] Lane Drift Alert: Drifting LEFT
+[19:46:52] Blind Spot Alert: Object on LEFT, Distance = 80cm
+[19:46:52] Lane Drift Alert: Drifting LEFT
+[19:46:53] Blind Spot Alert: Object on RIGHT, Distance = 77cm
+[19:46:54] Blind Spot Alert: Object on LEFT, Distance = 74cm
+[19:46:55] Blind Spot Alert: Object on LEFT, Distance = 76cm
+[19:46:56] Blind Spot Alert: Object on LEFT, Distance = 52cm
+[19:46:56] Lane Drift Alert: Drifting RIGHT
+[19:46:57] Lane Drift Alert: Drifting RIGHT
+[19:46:59] Lane Drift Alert: Drifting LEFT
+[19:47:00] Blind Spot Alert: Object on RIGHT, Distance = 86cm
+[19:47:00] Lane Drift Alert: Drifting RIGHT
+[19:47:01] Lane Drift Alert: Drifting LEFT
+[19:47:02] Blind Spot Alert: Object on LEFT, Distance = 83cm
+[19:47:02] Lane Drift Alert: Drifting RIGHT
+[19:47:03] Blind Spot Alert: Object on LEFT, Distance = 75cm
+[19:47:05] Blind Spot Alert: Object on LEFT, Distance = 66cm
+[19:47:06] Blind Spot Alert: Object on LEFT, Distance = 97cm
+[19:47:06] Lane Drift Alert: Drifting RIGHT
+[19:47:07] Blind Spot Alert: Object on RIGHT, Distance = 64cm
+[19:47:07] Lane Drift Alert: Drifting LEFT
+[19:47:08] Lane Drift Alert: Drifting LEFT
+[19:47:09] Lane Drift Alert: Drifting RIGHT
+[19:47:10] Blind Spot Alert: Object on LEFT, Distance = 71cm
+[19:47:10] Lane Drift Alert: Drifting LEFT
+[19:47:11] Blind Spot Alert: Object on LEFT, Distance = 61cm
+[19:47:11] Lane Drift Alert: Drifting LEFT
+[19:47:12] Lane Drift Alert: Drifting LEFT
+[19:47:13] Blind Spot Alert: Object on LEFT, Distance = 60cm
+[19:47:14] Blind Spot Alert: Object on RIGHT, Distance = 67cm
+[19:47:14] Lane Drift Alert: Drifting LEFT
+[19:47:15] Lane Drift Alert: Drifting RIGHT
+[19:47:16] Blind Spot Alert: Object on LEFT, Distance = 69cm
+[19:47:16] Lane Drift Alert: Drifting RIGHT
+[19:47:18] Lane Drift Alert: Drifting RIGHT
+[19:47:20] Blind Spot Alert: Object on LEFT, Distance = 96cm
+[19:47:21] Blind Spot Alert: Object on RIGHT, Distance = 59cm
+[19:47:21] Lane Drift Alert: Drifting LEFT
+[19:47:22] Lane Drift Alert: Drifting LEFT
+[19:47:23] Blind Spot Alert: Object on RIGHT, Distance = 58cm
+[19:47:23] Lane Drift Alert: Drifting RIGHT
+[19:47:24] Blind Spot Alert: Object on LEFT, Distance = 79cm
+[19:47:24] Lane Drift Alert: Drifting LEFT
+[19:47:25] Blind Spot Alert: Object on LEFT, Distance = 89cm
+[19:47:25] Lane Drift Alert: Drifting LEFT
+[19:47:26] Blind Spot Alert: Object on LEFT, Distance = 86cm
+[19:47:26] Lane Drift Alert: Drifting LEFT
+[19:47:27] Blind Spot Alert: Object on RIGHT, Distance = 59cm
+[19:47:27] Lane Drift Alert: Drifting RIGHT
+[19:47:28] Lane Drift Alert: Drifting LEFT
+[19:47:29] Blind Spot Alert: Object on RIGHT, Distance = 83cm
+[19:47:29] Lane Drift Alert: Drifting LEFT
+[19:47:31] Blind Spot Alert: Object on RIGHT, Distance = 88cm
+[19:47:32] Blind Spot Alert: Object on LEFT, Distance = 68cm
+[19:47:32] Lane Drift Alert: Drifting RIGHT
+[19:47:33] Blind Spot Alert: Object on LEFT, Distance = 98cm
+[19:47:36] Blind Spot Alert: Object on RIGHT, Distance = 64cm
+[19:47:36] Lane Drift Alert: Drifting RIGHT
+[19:47:37] Lane Drift Alert: Drifting LEFT
+[19:47:38] Blind Spot Alert: Object on LEFT, Distance = 56cm
+[19:47:38] Lane Drift Alert: Drifting LEFT
+[19:47:39] Lane Drift Alert: Drifting LEFT
+[19:47:40] Lane Drift Alert: Drifting RIGHT
+[19:47:42] Lane Drift Alert: Drifting LEFT
+[19:47:43] Blind Spot Alert: Object on LEFT, Distance = 86cm
+[19:47:43] Lane Drift Alert: Drifting RIGHT
+[19:47:44] Lane Drift Alert: Drifting LEFT
+[19:47:45] Lane Drift Alert: Drifting RIGHT
+[19:47:46] Blind Spot Alert: Object on LEFT, Distance = 61cm
+[19:47:46] Lane Drift Alert: Drifting RIGHT
+[19:47:47] Blind Spot Alert: Object on RIGHT, Distance = 58cm
+[19:47:48] Lane Drift Alert: Drifting LEFT
+[19:47:49] Lane Drift Alert: Drifting RIGHT
+[19:47:50] Blind Spot Alert: Object on RIGHT, Distance = 73cm
+[19:47:50] Lane Drift Alert: Drifting LEFT
+[19:47:51] Blind Spot Alert: Object on LEFT, Distance = 74cm
+[19:47:53] Lane Drift Alert: Drifting LEFT
+[19:47:54] Blind Spot Alert: Object on LEFT, Distance = 62cm
+[19:47:56] Lane Drift Alert: Drifting LEFT
+[19:47:57] Lane Drift Alert: Drifting RIGHT
+[19:47:58] Blind Spot Alert: Object on LEFT, Distance = 53cm
+[19:47:58] Lane Drift Alert: Drifting RIGHT
+[19:47:59] Lane Drift Alert: Drifting RIGHT
+[19:48:00] Lane Drift Alert: Drifting LEFT
+[19:48:01] Blind Spot Alert: Object on LEFT, Distance = 93cm
+[19:48:01] Lane Drift Alert: Drifting RIGHT
+[19:48:02] Blind Spot Alert: Object on RIGHT, Distance = 96cm
+[19:48:03] Blind Spot Alert: Object on RIGHT, Distance = 52cm
+[19:48:03] Lane Drift Alert: Drifting LEFT
+[19:48:04] Blind Spot Alert: Object on RIGHT, Distance = 52cm
+[19:48:05] Lane Drift Alert: Drifting RIGHT
+[19:48:07] Blind Spot Alert: Object on LEFT, Distance = 74cm
+[19:48:07] Lane Drift Alert: Drifting LEFT
+[19:48:08] Blind Spot Alert: Object on LEFT, Distance = 53cm
+[19:48:08] Lane Drift Alert: Drifting LEFT
+[19:48:09] Blind Spot Alert: Object on RIGHT, Distance = 69cm
+[19:48:09] Lane Drift Alert: Drifting RIGHT
+[19:48:11] Lane Drift Alert: Drifting LEFT
+[19:48:12] Blind Spot Alert: Object on LEFT, Distance = 55cm
+[19:48:12] Lane Drift Alert: Drifting RIGHT
+[19:48:14] Blind Spot Alert: Object on LEFT, Distance = 88cm
+[19:48:14] Lane Drift Alert: Drifting LEFT
+[19:48:15] Blind Spot Alert: Object on RIGHT, Distance = 67cm
+[19:48:15] Lane Drift Alert: Drifting LEFT
