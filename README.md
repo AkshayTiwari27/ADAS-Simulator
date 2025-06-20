@@ -1,124 +1,144 @@
-# ADAS Core Logic Simulator
+# 🚗 ADAS Core Logic Simulator
 
-## Table of Contents
+A hardware-independent simulator for an Advanced Driver Assistance System (ADAS), written entirely in C. It models the core logic for two critical automotive safety features: **Blind Spot Detection (BSD)** and **Lane Departure Warning (LDW)**.
 
-  - [Project Overview](https://www.google.com/search?q=%23project-overview)
-  - [System Architecture](https://www.google.com/search?q=%23system-architecture)
-      - [Design Philosophy](https://www.google.com/search?q=%23design-philosophy)
-      - [Data Flow](https://www.google.com/search?q=%23data-flow)
-      - [Module Descriptions](https://www.google.com/search?q=%23module-descriptions)
-  - [Key Features](https://www.google.com/search?q=%23key-features)
-  - [Code Documentation](https://www.google.com/search?q=%23code-documentation)
-  - [Build and Execute](https://www.google.com/search?q=%23build-and-execute)
-      - [Prerequisites](https://www.google.com/search?q=%23prerequisites)
-      - [Using Makefile (Recommended)](https://www.google.com/search?q=%23using-makefile-recommended)
-      - [Manual Compilation](https://www.google.com/search?q=%23manual-compilation)
-  - [Example Simulation Output](https://www.google.com/search?q=%23example-simulation-output)
-      - [Terminal Output](https://www.google.com/search?q=%23terminal-output)
-      - [Log File Output](https://www.google.com/search?q=%23log-file-output)
+---
 
-## Project Overview
+## 📚 Table of Contents
 
-This project is a hardware-independent simulator for an Advanced Driver Assistance System (ADAS), written entirely in C. It models the core decision-making logic for two critical safety features: **Blind Spot Detection (BSD)** and **Lane Departure Warning (LDW)**.
+- [Project Overview](#project-overview)
+- [System Architecture](#system-architecture)
+  - [Design Philosophy](#design-philosophy)
+  - [Data Flow](#data-flow)
+  - [Module Descriptions](#module-descriptions)
+- [Key Features](#key-features)
+- [Code Documentation](#code-documentation)
+- [Build and Execute](#build-and-execute)
+  - [Prerequisites](#prerequisites)
+  - [Using Makefile (Recommended)](#using-makefile-recommended)
+  - [Manual Compilation](#manual-compilation)
+- [Example Simulation Output](#example-simulation-output)
+  - [Terminal Output](#terminal-output)
+  - [Log File Output](#log-file-output)
+- [License](#license)
+- [Credits](#credits)
 
-The primary goal is to demonstrate robust embedded C programming practices, including a modular and portable architecture, real-time system simulation, and hardware abstraction—all without requiring physical sensors or microcontrollers.
+---
 
-## System Architecture
+## 🧠 Project Overview
 
-### Design Philosophy
+This ADAS simulator is a real-time logic emulator that mimics radar and lane tracking behavior using only software logic. Designed to reflect embedded software engineering practices, it demonstrates clean modular architecture, RTOS-like task separation, and time-sensitive event handling without requiring any physical hardware.
 
-The simulator is built on a **modular, decoupled architecture**. Each core component (sensor simulation, detection logic, alerting, logging) is isolated in its own module with a clean interface exposed via a header file (`.h`). This approach yields several key engineering benefits:
+---
 
-  * **Portability**: The core logic is completely independent of the underlying hardware (or in this case, the simulation environment).
-  * **Testability**: Each module can be unit-tested in isolation.
-  * **Scalability**: New features (e.g., Adaptive Cruise Control) can be integrated as new modules with minimal impact on existing code.
-  * **Maintainability**: Clear separation of concerns makes the codebase easier to understand and debug.
+## 🧱 System Architecture
 
-### Data Flow
+### 🔧 Design Philosophy
 
-The system operates in a continuous loop that mimics a real-time operating system (RTOS) scheduler running periodic tasks.
+The simulator is built using a modular, decoupled architecture. Each subsystem (sensing, logic, alerting, logging) is implemented as a standalone C module with a corresponding `.h` interface.
 
-`[Sensor Simulation] -> [Detection Logic (BSD & LDW)] -> [Alert Generation] -> [Console UI & File Logger]`
+**Benefits:**
+- **Portability** – Easy to port to microcontroller firmware.
+- **Testability** – Each module can be unit-tested.
+- **Scalability** – Add new ADAS features easily.
+- **Maintainability** – Logical separation simplifies debugging and extension.
 
-### Module Descriptions
+---
 
-The codebase is organized into the following logical units:
+### 🔄 Data Flow
 
-| Module             | Responsibility                                                                    | Files                                   |
-| ------------------ | --------------------------------------------------------------------------------- | --------------------------------------- |
-| `main`             | Main application driver. Initializes all subsystems and runs the simulation loop. | `main.c`                                |
-| `sensor_simulation`| Abstracts sensor hardware by providing simulated distance and lane position data.   | `sensor_simulation.c/h`                 |
-| `blind_spot`       | Encapsulates the algorithm for detecting objects in blind spots.                  | `blind_spot.c/h`                        |
-| `lane_detection`   | Encapsulates the algorithm for detecting lane drift.                              | `lane_detection.c/h`                    |
-| `alert`            | Manages the formatting and presentation of alerts to the user console.            | `alert.c/h`                             |
-| `log`              | Handles persistent, timestamped event logging to the filesystem.                  | `log.c/h`                               |
-| `terminal_colors`  | Provides ANSI escape codes for colorized, human-readable console output.          | `terminal_colors.h`                     |
-
-## Key Features
-
-  * **Hardware-Abstracted Sensor Simulation**: Generates randomized, yet plausible, data for radar sensors and a lane-tracking camera.
-  * **Configurable Threshold-Based Blind Spot Detection**: Triggers an alert if a simulated object is detected within a 100 cm safety threshold.
-  * **State-Based Lane Departure Warning**: Issues a warning if the vehicle's simulated position deviates from the lane center.
-  * **Real-Time Alert Generation**: Displays critical alerts on the terminal as events are detected in the simulation cycle.
-  * **Persistent Event Logging**: Logs all generated alerts with a timestamp to `log.txt` for auditing and post-simulation analysis.
-
-## Code Documentation
-
-The source code is internally documented using Doxygen-style comments in all header (`.h`) files. This documentation clarifies the purpose, parameters, and return values for every public function, adhering to industry best practices for code clarity and maintainability.
-
-## Build and Execute
-
-### Prerequisites
-
-  * A C compiler (e.g., GCC)
-  * `make` (for the recommended build method)
-
-### Using Makefile (Recommended)
-
-A `Makefile` is provided for a one-step compilation process on Linux, macOS, or Windows (with `make` installed).
-
-```sh
-# This will compile all source files and create the 'adas' executable.
-make
 ```
 
-### Manual Compilation
+\[Sensor Simulation] → \[Detection Logic (BSD + LDW)] → \[Alert System] → \[Console UI + Log File]
 
-If you prefer to compile manually, use the following `gcc` command.
+````
 
-**Linux/macOS:**
+---
 
-```sh
+### 📁 Module Descriptions
+
+| Module             | Responsibility                                                                      | Files                         |
+|--------------------|--------------------------------------------------------------------------------------|-------------------------------|
+| `main`             | Initializes and runs the simulation loop                                             | `main.c`                      |
+| `sensor_simulation`| Generates fake radar and camera data                                                 | `sensor_simulation.c/h`       |
+| `blind_spot`       | Evaluates distances to detect objects in blind zones                                 | `blind_spot.c/h`              |
+| `lane_detection`   | Detects drift from the center lane                                                   | `lane_detection.c/h`          |
+| `alert`            | Formats and displays alerts in real-time                                             | `alert.c/h`                   |
+| `log`              | Records events with timestamps into `log.txt`                                        | `log.c/h`                     |
+| `terminal_colors`  | Adds colored output using ANSI escape sequences                                      | `terminal_colors.h`           |
+
+---
+
+## ✨ Key Features
+
+- **Intelligent Sensor Simulation** – Mimics radar and lane camera behavior using controlled randomness.
+- **Blind Spot Detection** – Detects nearby objects < 100 cm on left/right sensors.
+- **Lane Drift Detection** – Detects deviation from center and issues drift alerts.
+- **Real-Time Console Alerts** – Outputs clean, readable alerts with status lines.
+- **Persistent Logging** – Records all alerts with timestamps in `log.txt`.
+
+---
+
+## 📄 Code Documentation
+
+All public header files (`*.h`) are documented using Doxygen-style comments, including function purpose, input/output, and usage hints.
+
+---
+
+## ⚙️ Build and Execute
+
+### 🔧 Prerequisites
+
+- GCC or compatible C compiler
+- `make` (optional but recommended)
+
+---
+
+### 🧰 Using Makefile (Recommended)
+
+```bash
+make
+````
+
+---
+
+### 🛠️ Manual Compilation
+
+#### Linux/macOS:
+
+```bash
 gcc main.c sensor_simulation.c blind_spot.c lane_detection.c alert.c log.c -o adas
 ```
 
-**Windows (with MinGW/TDM-GCC):**
+#### Windows (MinGW):
 
-```sh
+```bash
 gcc main.c sensor_simulation.c blind_spot.c lane_detection.c alert.c log.c -o adas.exe
 ```
 
-### Running the Simulator
+---
 
-Execute the compiled application from your terminal. Press `Ctrl+C` to stop the simulation.
+### ▶️ Running the Simulator
 
-**Linux/macOS:**
+#### Linux/macOS:
 
-```sh
+```bash
 ./adas
 ```
 
-**Windows:**
+#### Windows:
 
-```sh
+```bash
 .\adas.exe
 ```
 
-## Example Simulation Output
+Press `Ctrl+C` to stop the simulation loop.
+
+---
+
+## 🖥️ Example Simulation Output
 
 ### Terminal Output
-
-The terminal displays a continuous stream of system status updates, interspersed with real-time alerts.
 
 ```
 [OK] Lane: CENTER       | Left: 185 cm | Right: 130 cm
@@ -128,13 +148,30 @@ The terminal displays a continuous stream of system status updates, interspersed
 [!!] Lane Drift Alert: Drifting RIGHT
 ```
 
-### Log File Output
-
-A `log.txt` file is created or appended in the same directory, containing a history of all triggered alerts.
+### log.txt Output
 
 ```
 --- ADAS Log Session Started at 19:30:11 ---
 [19:31:29] Blind Spot Alert: Object on LEFT, Distance = 54cm
 [19:31:29] Lane Drift Alert: Drifting RIGHT
 [19:31:30] Blind Spot Alert: Object on LEFT, Distance = 51cm
+```
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+
+---
+
+## 👨‍💻 Credits
+
+**Author**: Akshay Tiwari
+**Email**: [tiwariakshay590@gmail.com](mailto:tiwariakshay590@gmail.com)
+**GitHub**: [AkshayTiwari27](https://github.com/AkshayTiwari27)
+**LinkedIn**: [linkedin.com/in/akshay-tiwari2709](https://www.linkedin.com/in/akshay-tiwari2709/)
+**Project Type**: Embedded Systems Simulation (No Hardware)
+
+```
 ```
