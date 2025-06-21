@@ -46,11 +46,13 @@ The simulator is built using a modular, decoupled architecture. Each subsystem (
 
 ### Data Flow
 
-```
+<p align="center">
+  <img src="images/ADAS-Simulator.png" alt="ADAS System Architecture Diagram" width="850"/>
+  <br/>
+  <em>ADAS Core Logic Flow — BSD and LDW Simulation Pipeline</em>
+</p>
 
-\[Sensor Simulation] → \[Detection Logic (BSD + LDW)] → \[Alert System] → \[Console UI + Log File]
-
-````
+---
 
 ### Module Descriptions
 
